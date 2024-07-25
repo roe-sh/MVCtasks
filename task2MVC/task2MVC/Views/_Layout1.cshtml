@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Women's Health Care</title>
+    <link rel="stylesheet" href="~/Content/Site.css" />
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="@Url.Action("Index", "Home")">Home</a></li>
+            <li><a href="@Url.Action("Services", "Home")">Services</a></li>
+            <li><a href="@Url.Action("About", "Home")">About</a></li>
+            <li><a href="@Url.Action("Contact", "Home")">Contact</a></li>
+         
+        </ul>
+    </nav>
+    <div class="content">
+        @RenderBody()
+    </div>
+    <footer>
+        <p>&copy; 2024 Women's Health Care. All rights reserved.</p>
+    </footer>
+</body>
+</html>

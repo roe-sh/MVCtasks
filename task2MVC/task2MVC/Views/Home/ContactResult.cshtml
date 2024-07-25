@@ -1,0 +1,13 @@
+﻿@model task2MVC.Models.ContactModel
+@{
+    ViewBag.Title = "Contact Result";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Contact Form Result</h2>
+
+<p>Name: @Model.Name</p>
+<p>Phone Number: @Model.PhoneNumber</p>
+<p>Gender: @Model.Gender</p>
+<p>Preferred Contact Method: @Model.ContactMethod</p>
+<p>Interests: @string.Join(", ", @Model.Interests)</p>

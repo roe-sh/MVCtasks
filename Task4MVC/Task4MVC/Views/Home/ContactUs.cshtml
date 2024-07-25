@@ -1,0 +1,49 @@
+﻿
+@{
+    ViewBag.Title = "ContactUs";
+}
+
+<h2>ContactUs</h2>
+
+@model Task4MVC.Models.ContactUsViewModel
+
+
+@using (Html.BeginForm("ContactUs", "Home", FormMethod.Post))
+{
+    <div>
+        @Html.LabelFor(m => m.Name)
+        @Html.TextBoxFor(m => m.Name)
+    </div>
+    <div>
+        @Html.LabelFor(m => m.Email)
+        @Html.TextBoxFor(m => m.Email)
+    </div>
+    <div>
+        @Html.LabelFor(m => m.Message)
+        @Html.TextAreaFor(m => m.Message)
+    </div>
+    <button type="submit">Submit</button>
+}
+
+@if (Model != null && Model.Submissions.Any())
+{
+    <table>
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Email</th>
+                <th>Message</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var submission in Model.Submissions)
+            {
+                <tr>
+                    <td>@submission.Name</td>
+                    <td>@submission.Email</td>
+                    <td>@submission.Message</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\MVC\\taskmvc1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8ED088B-315E-4CD4-8ADE-B417607040ED}|taskmvc1\\taskmvc1.csproj|C:\\Users\\Orange\\Desktop\\MVC\\taskmvc1\\taskmvc1\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8ED088B-315E-4CD4-8ADE-B417607040ED}|taskmvc1\\taskmvc1.csproj|solutionrelative:taskmvc1\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8ED088B-315E-4CD4-8ADE-B417607040ED}|taskmvc1\\taskmvc1.csproj|c:\\users\\orange\\desktop\\mvc\\taskmvc1\\taskmvc1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8ED088B-315E-4CD4-8ADE-B417607040ED}|taskmvc1\\taskmvc1.csproj|solutionrelative:taskmvc1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8ED088B-315E-4CD4-8ADE-B417607040ED}|taskmvc1\\taskmvc1.csproj|C:\\Users\\Orange\\Desktop\\MVC\\taskmvc1\\taskmvc1\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8ED088B-315E-4CD4-8ADE-B417607040ED}|taskmvc1\\taskmvc1.csproj|solutionrelative:taskmvc1\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8ED088B-315E-4CD4-8ADE-B417607040ED}|taskmvc1\\taskmvc1.csproj|C:\\Users\\Orange\\Desktop\\MVC\\taskmvc1\\taskmvc1\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8ED088B-315E-4CD4-8ADE-B417607040ED}|taskmvc1\\taskmvc1.csproj|solutionrelative:taskmvc1\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8ED088B-315E-4CD4-8ADE-B417607040ED}|taskmvc1\\taskmvc1.csproj|C:\\Users\\Orange\\Desktop\\MVC\\taskmvc1\\taskmvc1\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8ED088B-315E-4CD4-8ADE-B417607040ED}|taskmvc1\\taskmvc1.csproj|solutionrelative:taskmvc1\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8ED088B-315E-4CD4-8ADE-B417607040ED}|taskmvc1\\taskmvc1.csproj|C:\\Users\\Orange\\Desktop\\MVC\\taskmvc1\\taskmvc1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8ED088B-315E-4CD4-8ADE-B417607040ED}|taskmvc1\\taskmvc1.csproj|solutionrelative:taskmvc1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8ED088B-315E-4CD4-8ADE-B417607040ED}|taskmvc1\\taskmvc1.csproj|C:\\Users\\Orange\\Desktop\\MVC\\taskmvc1\\taskmvc1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8ED088B-315E-4CD4-8ADE-B417607040ED}|taskmvc1\\taskmvc1.csproj|solutionrelative:taskmvc1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8ED088B-315E-4CD4-8ADE-B417607040ED}|taskmvc1\\taskmvc1.csproj|C:\\Users\\Orange\\Desktop\\MVC\\taskmvc1\\taskmvc1\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8ED088B-315E-4CD4-8ADE-B417607040ED}|taskmvc1\\taskmvc1.csproj|solutionrelative:taskmvc1\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8ED088B-315E-4CD4-8ADE-B417607040ED}|taskmvc1\\taskmvc1.csproj|C:\\Users\\Orange\\Desktop\\MVC\\taskmvc1\\taskmvc1\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8ED088B-315E-4CD4-8ADE-B417607040ED}|taskmvc1\\taskmvc1.csproj|solutionrelative:taskmvc1\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8ED088B-315E-4CD4-8ADE-B417607040ED}|taskmvc1\\taskmvc1.csproj|C:\\Users\\Orange\\Desktop\\MVC\\taskmvc1\\taskmvc1\\controllers\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8ED088B-315E-4CD4-8ADE-B417607040ED}|taskmvc1\\taskmvc1.csproj|solutionrelative:taskmvc1\\controllers\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\taskmvc1\\taskmvc1\\Views\\Home\\register.cshtml",
+              "RelativeDocumentMoniker": "taskmvc1\\Views\\Home\\register.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\taskmvc1\\taskmvc1\\Views\\Home\\register.cshtml",
+              "RelativeToolTip": "taskmvc1\\Views\\Home\\register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T07:28:33.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\taskmvc1\\taskmvc1\\Views\\Home\\login.cshtml",
+              "RelativeDocumentMoniker": "taskmvc1\\Views\\Home\\login.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\taskmvc1\\taskmvc1\\Views\\Home\\login.cshtml",
+              "RelativeToolTip": "taskmvc1\\Views\\Home\\login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T07:27:51.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\taskmvc1\\taskmvc1\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "taskmvc1\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\taskmvc1\\taskmvc1\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "taskmvc1\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T07:26:29.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "user.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\taskmvc1\\taskmvc1\\Controllers\\user.cs",
+              "RelativeDocumentMoniker": "taskmvc1\\Controllers\\user.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\taskmvc1\\taskmvc1\\Controllers\\user.cs",
+              "RelativeToolTip": "taskmvc1\\Controllers\\user.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAwAoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T07:24:26.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "adminController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\taskmvc1\\taskmvc1\\Controllers\\adminController.cs",
+              "RelativeDocumentMoniker": "taskmvc1\\Controllers\\adminController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\taskmvc1\\taskmvc1\\Controllers\\adminController.cs",
+              "RelativeToolTip": "taskmvc1\\Controllers\\adminController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T07:22:45.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\taskmvc1\\taskmvc1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "taskmvc1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\taskmvc1\\taskmvc1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "taskmvc1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T07:18:43.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\taskmvc1\\taskmvc1\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "taskmvc1\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\taskmvc1\\taskmvc1\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "taskmvc1\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T07:18:16.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\taskmvc1\\taskmvc1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "taskmvc1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\taskmvc1\\taskmvc1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "taskmvc1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T07:15:35.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\taskmvc1\\taskmvc1\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "taskmvc1\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\taskmvc1\\taskmvc1\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "taskmvc1\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAcwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T07:12:39.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\taskmvc1\\taskmvc1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "taskmvc1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\taskmvc1\\taskmvc1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "taskmvc1\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAACMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T07:11:15.363Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

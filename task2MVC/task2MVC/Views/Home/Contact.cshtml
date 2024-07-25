@@ -1,0 +1,42 @@
+﻿@model task2MVC.Models.ContactModel
+@{
+    ViewBag.Title = "Contact";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Contact Form</h2>
+
+@using (Html.BeginForm())
+{
+    <div>
+        @Html.LabelFor(m => m.Name)
+        @Html.TextBoxFor(m => m.Name)
+        @Html.ValidationMessageFor(m => m.Name)
+    </div>
+    <div>
+        @Html.LabelFor(m => m.PhoneNumber)
+        @Html.TextBoxFor(m => m.PhoneNumber)
+        @Html.ValidationMessageFor(m => m.PhoneNumber)
+    </div>
+    <div>
+        @Html.Label("Gender")
+        @Html.RadioButtonFor(m => m.Gender, "Male") Male
+        @Html.RadioButtonFor(m => m.Gender, "Female") Female
+        @Html.ValidationMessageFor(m => m.Gender)
+    </div>
+    <div>
+        @Html.Label("Preferred Contact Method")
+        @Html.DropDownListFor(m => m.ContactMethod, new SelectList(new[] { "Email", "Phone" }))
+        @Html.ValidationMessageFor(m => m.ContactMethod)
+    </div>
+    <div>
+        @Html.Label("Interests")
+        @Html.ListBoxFor(m => m.Interests, new MultiSelectList(new[] { "Health", "Fitness", "Nutrition", "Wellness" }))
+        @Html.ValidationMessageFor(m => m.Interests)
+    </div>
+    <button type="submit">Submit</button>
+}
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
